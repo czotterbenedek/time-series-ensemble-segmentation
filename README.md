@@ -1,2 +1,1 @@
-# time-series-ensemble-segmentation
-Ensemble segmentation methods for time series
+# Ensemble segmentation methods for time series
