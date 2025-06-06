@@ -1,6 +1,6 @@
 # Ensemble Segmentation Methods for Time Series
 
-**The documentation of the project was written in Hungarian and can be found [here](./TFB4FY_onlab_dokumentacio.pdf). Below is a shorter summary of the documentation in English. The notebook, where I worked, can be reached [here](./onlab_tfb4fy.ipynb)**
+**The documentation of the project was written in Hungarian and can be found [here](./TFB4FY_onlab_dokumentacio.pdf). Below is a shorter summary of the documentation in English. The notebook, where I worked, can be reached [here](./onlab_tfb4fy.ipynb).**
 
 This project focuses on time series segmentation using ensemble models. Throughout the research, I studied various state-of-the-art time series segmentation algorithms in depth, such as:
 
